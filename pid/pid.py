@@ -1,4 +1,4 @@
-
+# pid controller source: https://medium.com/@aleksej.gudkov/python-pid-controller-example-a-complete-guide-5f35589eec86
 class PIDController:
     def __init__(self, Kp, Ki, Kd, setpoint):
         self.Kp = Kp

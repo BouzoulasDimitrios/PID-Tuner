@@ -1,3 +1,5 @@
+# pid class wrapper
+
 from .pid import PIDController 
 
 class PIDManager:
