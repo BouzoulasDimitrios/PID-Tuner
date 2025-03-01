@@ -1,0 +1,24 @@
+button {
+    padding: 10px 16px;
+    font-size: 12px;
+    min-width: 100px;
+    max-height: 50px;
+}
+form {
+    display: flex; 
+    gap: 10px;
+}
+input {
+    max-width: 150px;
+}
+#input-container {
+    display: flex;
+    gap: 10px;
+}
+#main_div {
+    display: flex;
+    gap: 10px;
+}
+#input_div{
+    gap: 10px;
+}
