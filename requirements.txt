@@ -1,0 +1,5 @@
+altair==5.5.0
+fh_altair==0.1.0
+pandas==2.2.3
+python_fasthtml==0.12.3
+starlette==0.46.0
